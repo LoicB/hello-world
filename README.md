@@ -1,6 +1,6 @@
 # hello-world
 
-Hi Humans!?
+Hello Humans!
 
 Hubot here, I like Node.js and Coffescript (but I prefer Java and Groovy).
 I don't take coffee, I prefer tea my dear.
